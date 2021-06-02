@@ -52,10 +52,9 @@ Both S and C corp is not a type of business. It’s a tax status, which is why y
 
 Because they are intended primarily for family-owned and other small businesses, S corporations are limited to no more than 100 investors (shareholders). When the number of shareholders in an S corporation exceeds the maximum allowed by law, the business must file and pay taxes as a C corporation.
 
-**C-Corp?**
-
-Facts  <br>
-1.) It can have an unlimited number of owners and multiple classes of stock <br>
+**C-Corp?** <br>
+Facts
+> 1.) It can have an unlimited number of owners and multiple classes of stock <br>
 2.) must comply with many more federal and state requirements than an LLC. <br>
 3.) Perpetual existence <br>
 4.) Double taxation <br>
