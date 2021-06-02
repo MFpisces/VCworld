@@ -5,8 +5,9 @@
 
 
 upfront costs (annualized)
-- Docusign $140 ish
+- Docusign $160 ish
 - Dyno bot $60
+- LLC costs $100-1k
 
 ## Discord functionality
 - Consulting  `Limited visibility`
