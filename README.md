@@ -8,10 +8,16 @@ upfront costs (annualized)
 - Docusign $160 ish
 - Dyno bot $60
 - LLC costs $100-1k
+- accounting/payroll software $500-1k
 
 # Ideas
+| Basic  | ??? | Business| 
+| :---           |    :----   |  :---- | 
+| content creators      | Software  || 
+|         | The ability to adjust the price of add-ons    || 
+| buy-in     | The ability to adjust the price of buy-ins.   | 
+| prize          | Prize distribution %  || 
 
-Basic
 
 
 ## Discord functionality
