@@ -3,20 +3,21 @@
 ![image](https://user-images.githubusercontent.com/5509267/120494326-b6d0b880-c389-11eb-911d-e7b8a6267854.png)
 - Make NDA's optional
 
-
-upfront costs (annualized)
-- Docusign $160 ish
-- Dyno bot $60
-- LLC costs $100-1k
-- accounting/payroll software $500-1k
+| Upfront costs (annualized) | $$$ |
+| :---|    :----  | 
+| Docusign  | $160 ish | 
+| LLC  | $100-1k | 
+| Quickbooks | $200 ish| 
+| Dyno bot |  $60| 
+| Total |  $1-2k| 
 
 # Ideas
-| Basic  | ??? | Business| 
-| :---           |    :----   |  :---- | 
-| content creators      | Software  || 
-|         | The ability to adjust the price of add-ons    || 
-| buy-in     | The ability to adjust the price of buy-ins.   | 
-| prize          | Prize distribution %  || 
+30-min duration
+| Basic $30 | $60 | Business $90 +| 
+| :---|    :----   |  :---- | 
+| Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li> | general ideas/ misc| Software |  
+     
+
 
 
 
