@@ -1,8 +1,12 @@
 ##  To-do List
-- Dyno premium ($5)
-
+- Dyno premium ($5) <br>
 ![image](https://user-images.githubusercontent.com/5509267/120494326-b6d0b880-c389-11eb-911d-e7b8a6267854.png)
+- Make NDA's optional
 
+
+upfront costs (annualized)
+- Docusign $140 ish
+- Dyno bot $60
 
 ## Discord functionality
 - Consulting  `Limited visibility`
