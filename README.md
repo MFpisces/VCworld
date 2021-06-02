@@ -9,6 +9,11 @@ upfront costs (annualized)
 - Dyno bot $60
 - LLC costs $100-1k
 
+# Ideas
+
+Basic
+
+
 ## Discord functionality
 - Consulting  `Limited visibility`
 - Angel  `limited visibility`
