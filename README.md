@@ -48,6 +48,11 @@ Display resolution 720 vs 1080 vs 1440 (2k) vs 3840 (4k)
 Video encoding H.265 vs Nvenc (how they work, how are they different etc)
 Bitrate -how does pixel density/fps affect this
 
+### Paypment processing
+Paypal
+==========
+If you call it a tip and say there are no refunds then paypal resides with the seller (very important distinction)
+
 
 ### Business module <br>
 **How to setup an LLC** <br>
