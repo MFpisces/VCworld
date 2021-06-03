@@ -23,7 +23,7 @@
 | :---|    :----   |  :---- | 
 | Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li>                   | general ideas/ misc| <li>Seed funding</li>Software<li>Bootstrapping</li>  |  
  
-# Basic  -$30
+# Basic  $30
 ### Content creator module <br>
 ### Youtube
 >Highest CPM's use to be toys, now it's finance  <br>
@@ -54,7 +54,9 @@ Bitrate -how does pixel density/fps affect this
 Paypal
 If you call it a tip and say there are no refunds then paypal resides with the seller (very important distinction)
 
-# Insert dumbass name here  -$90 +
+
+
+# Insert dumbass name here  $90 +
 ### Business module <br>
 **How to setup an LLC** <br>
 General talking points  <br>
@@ -72,6 +74,11 @@ Areas worth more money because the people have more money in them
 Group A - United States/GB/Germay
 Group B - 2nd world countries, Poland, parts of Asia
 Group C- 3rd world / nobody buys shit here
+
+
+
+
+
 
 
 
