@@ -35,6 +35,14 @@ Title and thumbnail should have different titles
 Negotiation very hard to get a better CPM
 Average CPM = $6.50 11/20/20
 Dislike/likes are both weighted equally for engagement
+Streaming
+Never run ads on Twitch the pay-per-view is horrendous and you will alienate your viewers. The marketing term is called “bounce-rate” and it basically means you're annoying, I’m outta here, dead content cya later. People will leave and most likely not return. It's 2020 you try to push anything onto anybody they are outta there. Pre-roll/mid-roll/end-roll ads DON’T DO IT!
+
+Things you should know 
+Display resolution 720 vs 1080 vs 1440 (2k) vs 3840 (4k)
+Video encoding H.265 vs Nvenc (how they work, how are they different etc)
+Bitrate -how does pixel density/fps affect this
+
 
 ### Business module <br>
 **How to setup an LLC** <br>
