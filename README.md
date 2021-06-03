@@ -60,7 +60,7 @@ You get a form from the government, you create shares(really easy) <br>
 $125 to sumbit and $125 maintain roughly <br>
 You get taxed where you work, legally obligated unless you can prove otherwise 
 
-tax treaties
+tax treaties<br>
 For both US and Canada if you are outside the country for 300 + days (estimation) you don't get taxed (Tax loophole)
 explain more later
 
