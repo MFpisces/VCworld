@@ -1,8 +1,10 @@
 ##  To-do List
 - Dyno premium ($5) <br>
 ![image](https://user-images.githubusercontent.com/5509267/120494326-b6d0b880-c389-11eb-911d-e7b8a6267854.png)
-- Make NDA's optional
+- Make NDA's optional (self-selected)
+-Some kind of filtering process that deteremines what plan is best suited for their needs. 
 
+### Cost to start
 | Upfront costs (annualized) | $$$ |
 | :---|    :----  | 
 | Docusign  | $160 ish | 
@@ -11,31 +13,34 @@
 | Dyno bot |  $60| 
 | Total |  $1-2k| 
 
+
+
+
 # Ideas
 30-min duration
 | Basic $30 | $60 | Business $90 +| 
 | :---|    :----   |  :---- | 
 | Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li>                   | general ideas/ misc| <li>Seed funding</li>Software<li>Bootstrapping</li>  |  
      
-**Content creator module** <br>
-general talking points
+### Content creator module <br>
+### Youtube
 >Highest CPM's use to be toys, now it's finance  <br>
-IF you swear in the 1st 2-5 mins of your video Youtube cuts ur CPM in half
+IF you swear in the 1st 2-5 mins of your video Youtube cuts ur CPM in half <br>
 Youtube is a whole different beast, ideally more is better in every sense of the word, you could pump out 3 videos a day and the viewership would still grow. A lot of streamers have full-time editors whose sole existence is to pump out videos on the daily. Youtube has no limits, the user base is freaking massive. Whenever you can afford to sustain paying an editor DO IT. 
- 
-Tags don’t carry weight, it’s more for research purposes to see what people are searching
-Video editors need to upload directly (get a % of youtube revenue or paid directly)
-Thumbnails ---> 2-3 focus points
-Story ---narrative --- direction 
-Invoke a feeling
-Title and thumbnail should have different titles
+Tags don’t carry weight, it’s more for research purposes to see what people are searching<br>
+Video editors need to upload directly (get a % of youtube revenue or paid directly)<br>
+Thumbnails ---> 2-3 focus points<br>
+Story ---narrative --- direction <br>
+Invoke a feeling<br>
+Title and thumbnail should have different titles<br>
  * Highlights - moments from stream that are good current or past
  * Long Form - entire VODS, discussions, interviews etc. (you currently only do this category)
  * Meta/Reacts - reacting to things going on (present day, news)
-Negotiation very hard to get a better CPM
-Average CPM = $6.50 11/20/20
-Dislike/likes are both weighted equally for engagement
-Streaming
+Negotiation very hard to get a better CPM<br>
+Average CPM = $6.50 11/20/20 <br>
+Dislike/likes are both weighted equally for engagement<br>
+
+### Twitch
 Never run ads on Twitch the pay-per-view is horrendous and you will alienate your viewers. The marketing term is called “bounce-rate” and it basically means you're annoying, I’m outta here, dead content cya later. People will leave and most likely not return. It's 2020 you try to push anything onto anybody they are outta there. Pre-roll/mid-roll/end-roll ads DON’T DO IT!
 
 Things you should know 
