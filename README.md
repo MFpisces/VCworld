@@ -51,6 +51,49 @@ Bitrate -how does pixel density/fps affect this <br>
 
 Twitch has a flat-rate CPM
 
+How to pay an editor?
+Flat-rate Is generally accepted as the preferred method of paying an employee, but is not without its downsides. 
+
+
+1. Due to a fixed income there is zero growth potential which is often very discouraging
+2. No incentive to make quality videos
+3. Typically unhappy with pay 
+4. Potentially high turnover rate (Constantly looking for new editors)
+
+With the exception of an agency/manager almost everybody should be paid this way, Anyone who tells you otherwise is out of their mind and most likely trying to take advantage of you. 
+
+Revshare is simply a percentage-based payout which is very rarely used for obvious reasons. 
+
+1. Unlimited growth potential
+2. Performance-based
+3. Almost always gets overpaid for very little effort.
+4. Typically used by startups to help grow XYZ
+
+
+
+
+Ok, great, now what?
+
+The best thing you can do given your current situation is to actively try to find anybody willing to clip segments of your broadcasts for various kinds of content. On top of this, anybody willing to make VOD’s for Youtube and or act upon your content creation ideas like 
+
+Types of content that is lowest hanging fruit 
+Highlight reels
+Fail compilations (Dotacinema)
+Clips (A lot of streamers have a 2nd channel for this)
+1st-time playthroughs (like your Remnants)
+Commentary (watching pro dota/pro games etc)
+Reacting andy (This is all Youtube was when it 1st started)
+
+Types of content that is much harder
+Cosplay
+music 
+art 
+game shows
+Podcasts
+Reviews(food/products etc)
+Travelling
+there is typically a much greater creative and upfront cost that can be quite expensive. I’m sure this is the type of content you would enjoy the most given that these things are far more enjoyable than simply spitting out a highlight reel. Most Youtubers/streamers are actually extremely lazy, so really in-order to “make it” you just have to be less lazy than them smiley face
+
 
 ### Business module <br>
 **How to setup an LLC** <br>
