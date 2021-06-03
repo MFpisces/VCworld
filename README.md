@@ -17,6 +17,28 @@
 | :---|    :----   |  :---- | 
 | Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li>                   | general ideas/ misc| <li>Seed funding</li>Software<li>Bootstrapping</li>  |  
      
+**Content creator module** <br>
+general talking points
+>Highest CPM's use to be toys, now it's finance  <br>
+IF you swear in the 1st 2-5 mins of your video Youtube cuts ur CPM in half
+
+### Business module <br>
+**How to setup an LLC**
+General talking points  <br>
+>Use a service like LegalZoom and look for a resident agent and a state that doesn't have high state-tax (Washigton/Nevada/Texas).  <br>
+You get a form from the government, you create shares(really easy) <br>
+$125 to sumbit and $125 maintain roughly <br>
+You get taxed where you work, legally obligated unless you can prove otherwise 
+
+tax treaties
+For both US and Canada if you are outside the country for 300 + days (estimation) you don't get taxed (Tax loophole)
+explain more later
+
+Areas worth more money because the people have more money in them
+
+Group A - United States/GB/Germay
+Group B - 2nd world countries, Poland, parts of Asia
+Group C- 3rd world / nobody buys shit here
 
 ## Discord functionality
 - Consulting  `Limited visibility`
