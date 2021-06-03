@@ -16,12 +16,14 @@
 
 
 
-# Ideas
+
+# Business model? Not sure yet
 30-min duration
 | Basic $30 | $60 | Business $90 +| 
 | :---|    :----   |  :---- | 
 | Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li>                   | general ideas/ misc| <li>Seed funding</li>Software<li>Bootstrapping</li>  |  
-     
+ 
+# Basic    
 ### Content creator module <br>
 ### Youtube
 >Highest CPM's use to be toys, now it's finance  <br>
@@ -71,6 +73,8 @@ Areas worth more money because the people have more money in them
 Group A - United States/GB/Germay
 Group B - 2nd world countries, Poland, parts of Asia
 Group C- 3rd world / nobody buys shit here
+
+
 
 ## Discord functionality
 - Consulting  `Limited visibility`
