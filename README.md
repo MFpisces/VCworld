@@ -23,7 +23,7 @@
 | :---|    :----   |  :---- | 
 | Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li>                   | general ideas/ misc| <li>Seed funding</li>Software<li>Bootstrapping</li>  |  
  
-# Basic    
+# Basic  -$30
 ### Content creator module <br>
 ### Youtube
 >Highest CPM's use to be toys, now it's finance  <br>
@@ -43,19 +43,18 @@ Average CPM = $6.50 11/20/20 <br>
 Dislike/likes are both weighted equally for engagement<br>
 
 ### Twitch
-Never run ads on Twitch the pay-per-view is horrendous and you will alienate your viewers. The marketing term is called “bounce-rate” and it basically means you're annoying, I’m outta here, dead content cya later. People will leave and most likely not return. It's 2020 you try to push anything onto anybody they are outta there. Pre-roll/mid-roll/end-roll ads DON’T DO IT!
-
+>Never run ads on Twitch the pay-per-view is horrendous and you will alienate your viewers. The marketing term is called “bounce-rate” and it basically means you're annoying, I’m outta here, dead content cya later. People will leave and most likely not return. It's 2020 you try to push anything onto anybody they are outta there. Pre-roll/mid-roll/end-roll ads DON’T DO IT!
 Things you should know 
 Display resolution 720 vs 1080 vs 1440 (2k) vs 3840 (4k)
 Video encoding H.265 vs Nvenc (how they work, how are they different etc)
 Bitrate -how does pixel density/fps affect this
 
 ### Paypment processing
+
 Paypal
-==========
 If you call it a tip and say there are no refunds then paypal resides with the seller (very important distinction)
 
-
+# Insert dumbass name here  -$90 +
 ### Business module <br>
 **How to setup an LLC** <br>
 General talking points  <br>
