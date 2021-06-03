@@ -21,9 +21,23 @@
 general talking points
 >Highest CPM's use to be toys, now it's finance  <br>
 IF you swear in the 1st 2-5 mins of your video Youtube cuts ur CPM in half
+Youtube is a whole different beast, ideally more is better in every sense of the word, you could pump out 3 videos a day and the viewership would still grow. A lot of streamers have full-time editors whose sole existence is to pump out videos on the daily. Youtube has no limits, the user base is freaking massive. Whenever you can afford to sustain paying an editor DO IT. 
+ 
+Tags don’t carry weight, it’s more for research purposes to see what people are searching
+Video editors need to upload directly (get a % of youtube revenue or paid directly)
+Thumbnails ---> 2-3 focus points
+Story ---narrative --- direction 
+Invoke a feeling
+Title and thumbnail should have different titles
+ * Highlights - moments from stream that are good current or past
+ * Long Form - entire VODS, discussions, interviews etc. (you currently only do this category)
+ * Meta/Reacts - reacting to things going on (present day, news)
+Negotiation very hard to get a better CPM
+Average CPM = $6.50 11/20/20
+Dislike/likes are both weighted equally for engagement
 
 ### Business module <br>
-**How to setup an LLC**
+**How to setup an LLC** <br>
 General talking points  <br>
 >Use a service like LegalZoom and look for a resident agent and a state that doesn't have high state-tax (Washigton/Nevada/Texas).  <br>
 You get a form from the government, you create shares(really easy) <br>
