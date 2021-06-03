@@ -20,7 +20,7 @@
 30-min duration
 | Basic $30 | $60 | Business $90 +| 
 | :---|    :----   |  :---- | 
-| Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li>                   | general ideas/ misc| <li>Seed funding</li>Software<li>Bootstrapping</li>  |  
+| Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li>                   | general ideas/ misc| <li>Seed funding</li><li>Software</li><li>Bootstrapping</li>  |  
      
 ### Content creator module <br>
 ### Youtube
