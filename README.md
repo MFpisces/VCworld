@@ -16,16 +16,15 @@
 
 
 
-
-# Business model? Not sure yet
+# Ideas
 30-min duration
 | Basic $30 | $60 | Business $90 +| 
 | :---|    :----   |  :---- | 
 | Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li>                   | general ideas/ misc| <li>Seed funding</li>Software<li>Bootstrapping</li>  |  
- 
-# Basic  $30
+     
 ### Content creator module <br>
 ### Youtube
+Youtube has a dynamic CPM
 >Highest CPM's use to be toys, now it's finance  <br>
 IF you swear in the 1st 2-5 mins of your video Youtube cuts ur CPM in half <br>
 Youtube is a whole different beast, ideally more is better in every sense of the word, you could pump out 3 videos a day and the viewership would still grow. A lot of streamers have full-time editors whose sole existence is to pump out videos on the daily. Youtube has no limits, the user base is freaking massive. Whenever you can afford to sustain paying an editor DO IT. 
@@ -44,19 +43,15 @@ Dislike/likes are both weighted equally for engagement<br>
 
 ### Twitch
 >Never run ads on Twitch the pay-per-view is horrendous and you will alienate your viewers. The marketing term is called “bounce-rate” and it basically means you're annoying, I’m outta here, dead content cya later. People will leave and most likely not return. It's 2020 you try to push anything onto anybody they are outta there. Pre-roll/mid-roll/end-roll ads DON’T DO IT!
+You can take names from inactive accounts if you are a partner
 Things you should know 
-Display resolution 720 vs 1080 vs 1440 (2k) vs 3840 (4k)
-Video encoding H.265 vs Nvenc (how they work, how are they different etc)
-Bitrate -how does pixel density/fps affect this
+Display resolution 720 vs 1080 (33% more i vs 1440 (2k) vs 3840 (4k) <br>
+Video encoding H.265 vs Nvenc (how they work, how are they different etc) <br>
+Bitrate -how does pixel density/fps affect this <br>
 
-### Paypment processing
-
-Paypal
-If you call it a tip and say there are no refunds then paypal resides with the seller (very important distinction)
+Twitch has a flat-rate CPM
 
 
-
-# Insert dumbass name here  $90 +
 ### Business module <br>
 **How to setup an LLC** <br>
 General talking points  <br>
@@ -74,13 +69,6 @@ Areas worth more money because the people have more money in them
 Group A - United States/GB/Germay
 Group B - 2nd world countries, Poland, parts of Asia
 Group C- 3rd world / nobody buys shit here
-
-
-
-
-
-
-
 
 ## Discord functionality
 - Consulting  `Limited visibility`
