@@ -14,9 +14,13 @@
 | Total |  $1-2k| 
 
 
+# provisions (verbatim)
+Canada (page 19-20) <br>
+![image](https://user-images.githubusercontent.com/5509267/120844730-d872a100-c53d-11eb-9927-861bcd6b69c9.png)
 
+US
 
-# Ideas
+### Potential business model
 30-min duration
 | Basic $30 | $60 | Business $90 +| 
 | :---|    :----   |  :---- | 
@@ -150,7 +154,7 @@ Facts
 2.) must comply with many more federal and state requirements than an LLC. <br>
 3.) Perpetual existence <br>
 4.) Double taxation <br>
-> Pays a flat federal income tax of 21% on everything (regardless of what state you live in)
+> Pays a flat federal income tax of 21% on everything (regardless of what state you live in) - soon to be 28% if Biden's provision passes
 
 ## Misc
 ![image](https://user-images.githubusercontent.com/5509267/120495156-7160bb00-c38a-11eb-86fe-10d98acab287.png)
