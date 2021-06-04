@@ -1,8 +1,8 @@
 ##  To-do List
-- Dyno premium ($5) <br>
-![image](https://user-images.githubusercontent.com/5509267/120494326-b6d0b880-c389-11eb-911d-e7b8a6267854.png)
-- Make NDA's optional (self-selected)
--Some kind of filtering process that deteremines what plan is best suited for their needs. 
+Dyno premium ($5) <br>
+![image](https://user-images.githubusercontent.com/5509267/120494326-b6d0b880-c389-11eb-911d-e7b8a6267854.png) <br>
+Make NDA's optional (self-selected) <br>
+Some kind of filtering process that deteremines what plan is best suited for their needs. 
 
 ### Cost to start
 | Upfront costs (annualized) | $$$ |
