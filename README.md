@@ -1,17 +1,11 @@
-##  To-do List
-<a href="https://dyno.gg/premium">Dyno premium</a> ($5) <br>
-![image](https://user-images.githubusercontent.com/5509267/120494326-b6d0b880-c389-11eb-911d-e7b8a6267854.png) <br>
-Make NDA's optional (self-selected) <br>
-Some kind of filtering process that deteremines what plan is best suited for their needs. 
-
-### Cost to start
-| Upfront costs (annualized) | $$$ |
-| :---|    :----  | 
-| Docusign  | $160 ish | 
-| LLC  | $100-1k | 
-| Quickbooks | $200 ish| 
-| Dyno bot |  $60| 
-| Total |  $1-2k| 
+### Cost to start (rough estimation)
+| Upfront costs (annualized)                                  | $$$ |
+| :---                                                        |    :----  | 
+| <a href="https://www.docusign.ca/">Docusign</a>             | $160 ish | 
+| LLC                                                         | $100-1k | 
+| <a href="https://quickbooks.intuit.com/ca/">Quickbooks</a>  | $200 ish| 
+| Dyno bot                                                    |  $60| 
+| Total                                                       |  $1-2k| 
 
 
 # provisions (verbatim)
