@@ -16,6 +16,7 @@ Some kind of filtering process that deteremines what plan is best suited for the
 
 # provisions (verbatim)
 Canada (page 19-20) <br>
+![image](https://user-images.githubusercontent.com/5509267/120845506-eecd2c80-c53e-11eb-9fe4-c71ca65a1132.png) <br>
 ![image](https://user-images.githubusercontent.com/5509267/120844730-d872a100-c53d-11eb-9927-861bcd6b69c9.png)
 
 US
