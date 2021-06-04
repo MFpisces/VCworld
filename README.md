@@ -1,4 +1,4 @@
-### Cost to start (rough estimation)
+### Startup cost (rough estimation)
 | Upfront costs (annualized)                                  | $$$ |
 | :---                                                        |    :----  | 
 | <a href="https://www.docusign.ca/">Docusign</a>             | $160 ish | 
@@ -8,7 +8,7 @@
 | Total                                                       |  $1-2k| 
 
 
-# provisions (verbatim)
+## provisions (verbatim)
 **Canada** <br>
 <a href="https://www.poltext.org/sites/poltext.org/files/plateformesV2/Canada/CAN_PL_2019_LIB_EN.pdf">Forward - A Real Plan for the Middle Class</a> page 19-20<br>
 ![image](https://user-images.githubusercontent.com/5509267/120845506-eecd2c80-c53e-11eb-9fe4-c71ca65a1132.png) <br>
@@ -22,14 +22,17 @@
 | :---|    :----   |  :---- | 
 | Content creators<li>Social media platforms</li><li>Broadcasting</li><li>Agencies</li><li>Organizations</li><li>Sponsorships</li><li>Payment processing</li>                   | general ideas/ misc| <li>Seed funding</li><li>Software</li><li>Bootstrapping</li>  |  
      
-### Content creator module <br>
+## Content creator module <br>
 ### Youtube
  
 - Dynamic CPM <br>
+- Average CPM = $6.50 11/20/20 (need to research this again) <br>
 - Highest CPM's use to be toys, now it's finance  <br>
 - If you swear in the 1st 2-5 mins of your video Youtube cuts ur CPM in half <br>
 - Tags don’t carry weight, it’s more for research purposes to see what people are searching<br>
+- Dislike/likes are both weighted equally for engagement<br>
 
+Frequency of content <br>
 Ideally more is better in every sense of the word, you could pump out 3 videos a day and the viewership would still grow. A lot of streamers have full-time editors whose sole existence is to pump out videos on the daily. Youtube for the most part has very few limitations. Whenever you can afford to sustain paying an editor DO IT. 
 
 Thumbnails ---> 2-3 focus points<br>
@@ -39,47 +42,46 @@ Title and thumbnail should have different titles<br>
  * Highlights - moments from stream that are good current or past
  * Long Form - entire VODS, discussions, interviews etc. (you currently only do this category)
  * Meta/Reacts - reacting to things going on (present day, news)
-Negotiation very hard to get a better CPM<br>
-Average CPM = $6.50 11/20/20 <br>
-Dislike/likes are both weighted equally for engagement<br>
+
+
+
 
 ### Twitch
 - Flat-rate CPM
--
+- Negotiation very hard to get a better CPM<br>
 >Never run ads on Twitch the pay-per-view is horrendous and you will alienate your viewers. The marketing term is called “bounce-rate” and it basically means you're annoying, I’m outta here, dead content cya later. People will leave and most likely not return. It's 2020 you try to push anything onto anybody they are outta there. Pre-roll/mid-roll/end-roll ads DON’T DO IT!
-You can take names from inactive accounts if you are a partner
+- You can take names from inactive accounts if you are a partner
+
 Things you should know 
 Display resolution 720 vs 1080 (33% more i vs 1440 (2k) vs 3840 (4k) <br>
 Video encoding H.265 vs Nvenc (how they work, how are they different etc) <br>
 Bitrate -how does pixel density/fps affect this <br>
 
+### How Ads work
+Talk about Eat24 >>> how it used pornhub >>>> Grubhub
+APRU >>>> Ex: Raid Legends >>>> dog shit game that has almost $200 per user
+AD density
+Fill-rate  Think of a lake and streamers take cups of water out 0-100%
+If the lake is 2 big Adverts don't get a chance to show
+If the lake is 2 low  streamers can’t run ads can’t make $$$
 
 
-How to pay an editor?
-Video editors need to upload directly (get a % of youtube revenue or paid directly)<br>
-Flat-rate Is generally accepted as the preferred method of paying an employee, but is not without its downsides. 
+### How to pay an editor?
+Video editors need to upload directly (get a % of youtube revenue or paid directly) <br>
 
-
+Flat-rate Is generally accepted as the preferred method of paying an employee, but is not without its downsides. <br>
 1. Due to a fixed income there is zero growth potential which is often very discouraging
 2. No incentive to make quality videos
 3. Typically unhappy with pay 
 4. Potentially high turnover rate (Constantly looking for new editors)
 
-With the exception of an agency/manager almost everybody should be paid this way, Anyone who tells you otherwise is out of their mind and most likely trying to take advantage of you. 
+With the exception of an agency/manager almost everybody should be paid this way.
 
-Revshare is simply a percentage-based payout which is very rarely used for obvious reasons. 
-
+Revshare is simply a percentage-based payout which is very rarely used for obvious reasons. <br>
 1. Unlimited growth potential
 2. Performance-based
 3. Almost always gets overpaid for very little effort.
 4. Typically used by startups to help grow XYZ
-
-
-
-
-Ok, great, now what?
-
-The best thing you can do given your current situation is to actively try to find anybody willing to clip segments of your broadcasts for various kinds of content. On top of this, anybody willing to make VOD’s for Youtube and or act upon your content creation ideas like 
 
 Types of content that is lowest hanging fruit 
 Highlight reels
