@@ -9,11 +9,12 @@
 
 
 # provisions (verbatim)
-Canada (page 19-20) <br>
+**Canada** <br>
+<a href="https://www.poltext.org/sites/poltext.org/files/plateformesV2/Canada/CAN_PL_2019_LIB_EN.pdf">Forward - A Real Plan for the Middle Class</a> page 19-20<br>
 ![image](https://user-images.githubusercontent.com/5509267/120845506-eecd2c80-c53e-11eb-9fe4-c71ca65a1132.png) <br>
 ![image](https://user-images.githubusercontent.com/5509267/120844730-d872a100-c53d-11eb-9927-861bcd6b69c9.png)
 
-US
+**US**
 
 ### Potential business model
 30-min duration
