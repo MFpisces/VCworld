@@ -4,7 +4,7 @@
 | <a href="https://www.docusign.ca/">Docusign</a>             | $160 ish | 
 | LLC                                                         | $100-1k | 
 | <a href="https://quickbooks.intuit.com/ca/">Quickbooks</a>  | $200 ish| 
-| Dyno bot                                                    |  $60| 
+| <a href="https://dyno.gg/">Dyno bot </a>                    |  $60| 
 | Total                                                       |  $1-2k| 
 
 
@@ -24,12 +24,14 @@
      
 ### Content creator module <br>
 ### Youtube
-Youtube has a dynamic CPM
->Highest CPM's use to be toys, now it's finance  <br>
-IF you swear in the 1st 2-5 mins of your video Youtube cuts ur CPM in half <br>
-Youtube is a whole different beast, ideally more is better in every sense of the word, you could pump out 3 videos a day and the viewership would still grow. A lot of streamers have full-time editors whose sole existence is to pump out videos on the daily. Youtube has no limits, the user base is freaking massive. Whenever you can afford to sustain paying an editor DO IT. 
-Tags don’t carry weight, it’s more for research purposes to see what people are searching<br>
-Video editors need to upload directly (get a % of youtube revenue or paid directly)<br>
+ 
+- Dynamic CPM <br>
+- Highest CPM's use to be toys, now it's finance  <br>
+- If you swear in the 1st 2-5 mins of your video Youtube cuts ur CPM in half <br>
+- Tags don’t carry weight, it’s more for research purposes to see what people are searching<br>
+
+Ideally more is better in every sense of the word, you could pump out 3 videos a day and the viewership would still grow. A lot of streamers have full-time editors whose sole existence is to pump out videos on the daily. Youtube for the most part has very few limitations. Whenever you can afford to sustain paying an editor DO IT. 
+
 Thumbnails ---> 2-3 focus points<br>
 Story ---narrative --- direction <br>
 Invoke a feeling<br>
@@ -42,6 +44,8 @@ Average CPM = $6.50 11/20/20 <br>
 Dislike/likes are both weighted equally for engagement<br>
 
 ### Twitch
+- Flat-rate CPM
+-
 >Never run ads on Twitch the pay-per-view is horrendous and you will alienate your viewers. The marketing term is called “bounce-rate” and it basically means you're annoying, I’m outta here, dead content cya later. People will leave and most likely not return. It's 2020 you try to push anything onto anybody they are outta there. Pre-roll/mid-roll/end-roll ads DON’T DO IT!
 You can take names from inactive accounts if you are a partner
 Things you should know 
@@ -49,9 +53,10 @@ Display resolution 720 vs 1080 (33% more i vs 1440 (2k) vs 3840 (4k) <br>
 Video encoding H.265 vs Nvenc (how they work, how are they different etc) <br>
 Bitrate -how does pixel density/fps affect this <br>
 
-Twitch has a flat-rate CPM
+
 
 How to pay an editor?
+Video editors need to upload directly (get a % of youtube revenue or paid directly)<br>
 Flat-rate Is generally accepted as the preferred method of paying an employee, but is not without its downsides. 
 
 
