@@ -25,12 +25,14 @@
 ## Content creator module <br>
 ### Youtube
  
-- Dynamic CPM <br>
-- Average CPM = $6.50 11/20/20 (need to research this again) <br>
+CPM
+- Dynamic <br>
+- Average  = $6.50 11/20/20 (need to research this again) <br>
 - Highest CPM's use to be toys, now it's finance  <br>
 - If you swear in the 1st 2-5 mins of your video Youtube cuts ur CPM in half <br>
-- Tags don’t carry weight, it’s more for research purposes to see what people are searching<br>
-- Dislike/likes are both weighted equally for engagement<br>
+
+> Tags don’t carry weight, it’s more for research purposes to see what people are searching<br>
+> Dislike/likes are both weighted equally for engagement<br>
 
 Frequency of content <br>
 Ideally more is better in every sense of the word, you could pump out 3 videos a day and the viewership would still grow. A lot of streamers have full-time editors whose sole existence is to pump out videos on the daily. Youtube for the most part has very few limitations. Whenever you can afford to sustain paying an editor DO IT. 
